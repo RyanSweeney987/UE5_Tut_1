@@ -42,7 +42,7 @@ public:
  * 
  */
 UCLASS(ClassGroup = Custom, meta = (BlueprintSpawnableComponent))
-class UE5_TUT_1_API UDebugStrings : public UDebugDrawComponent
+class UDebugStrings : public UDebugDrawComponent
 {
 	GENERATED_BODY()
 
