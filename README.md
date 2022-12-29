@@ -4,4 +4,4 @@ This project contains the files created for the tutorial found here: https://you
 
 Just add the component to an actor and enable the view flag and away you go\
 \
-I'll add a written tutorial here soon\
+I'll add a written tutorial here soon
