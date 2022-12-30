@@ -2,6 +2,6 @@
 
 This project contains the files created for the tutorial found here: https://youtu.be/FQQmdirfVYg
 
-Just add the component to an actor and enable the view flag and away you go\
+Just add the Debug Strings component to an actor and enable the view flag and away you go\
 \
 I'll add a written tutorial here soon
